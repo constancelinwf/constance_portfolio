@@ -1,6 +1,8 @@
 ## Technical Skills
 Python | Matplotlib | Seaborn | Scikit-learn | Natural Language Processing | Keras | Basic SQL 
 
+<br> 
+
 ## Projects
 <b>Capstone Project: ML, Brain Tumors & MRI</b>
   * Trained a publicly available Magnetic Resonance Imaging (MRI) brain image dataset with 3 different pre-trained CNN models with Keras to accurately predict 3 types of brain tumor - chosen model’s accuracy is 92%
