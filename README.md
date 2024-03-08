@@ -3,7 +3,8 @@ Python | Matplotlib | Seaborn | Scikit-learn | Natural Language Processing | Ker
 
 ## Projects
 <b>Capstone Project: ML, Brain Tumors & MRI</b>
-  * Trained a publicly available Magnetic Resonance Imaging (MRI) brain image dataset with 3 different pre-trained CNN models with Keras to accurately predict 3 types of brain tumor (chosen model’s accuracy is 92%); created a retrieval-augmented question-answer model using Langchain and Pinecone to answer questions relating to MRI safety with demonstration on Streamlit
+  * Trained a publicly available Magnetic Resonance Imaging (MRI) brain image dataset with 3 different pre-trained CNN models with Keras to accurately predict 3 types of brain tumor - chosen model’s accuracy is 92%
+  * Created a retrieval-augmented question-answer model using Langchain and Pinecone to answer questions relating to MRI safety with demonstration on Streamlit
   * [Check the project out](https://github.com/constancelinwf/ga_projects/tree/main/brain_tumor_prediction)
 
 <br>
