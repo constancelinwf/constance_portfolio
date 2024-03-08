@@ -30,7 +30,7 @@ Python | Matplotlib | Seaborn | Scikit-learn | Natural Language Processing | Ker
 
 <br>
 
-</b>Weather & Dengue<b>
+<b>Weather & Dengue</b>
 * Project focused on exploratory data analysis (EDA)
 * Predicted trends in Dengue fever cases through data collection, data extraction and accurate analysis of Singapore’s weather using matplotlib and seaborn libraries
 * [Check the project out](https://github.com/constancelinwf/ga_projects/blob/main/weather_and_dengue_fever_cases/Dengue%20Presentation%20Slides.pdf)
