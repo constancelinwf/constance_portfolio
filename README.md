@@ -1,5 +1,5 @@
 ## Technical Skills
-Python | Matplotlib | Seaborn | Scikit-learn | Natural Language Processing | Keras | Basic SQL 
+Python | Matplotlib | Seaborn | Scikit-learn | Natural Language Processing | Keras | Basic SQL | Basic Tableau (self learning)
 
 <br> 
 
